@@ -1,7 +1,7 @@
 # Project: Building information database
 **Student Name:** Jake Simon
 
-**I worked on creating a detailed excel document of all the building services on the University Park campus. This was then used for manipulation of the search bar and building information pop-ups. My final excel document is seen in the folder as well as the powerpoint that I gave as a summary of my project. Below is the written report, describing in detail my goals, intentions and outcomes of the project**
+*I worked on creating a detailed excel document of all the building services on the University Park campus. This was then used for manipulation of the search bar and building information pop-ups. My final excel document is seen in the folder as well as the powerpoint that I gave as a summary of my project. Below is the written report, describing in detail my goals, intentions and outcomes of the project*
 
 Going into this project, I knew that all of the data would be easy to find, but collecting and managing the information would be the hardest part. My project focused on creating a detailed database on building information for the campus map pop-up. Working with other students who were only focused on the pop-up design, I was able to come up with a very specific excel form that encompassed all the possible information that we wanted to incorporate into the pop-up dialog box.  My major goal for the database was to include as many links as possible so that the campus map will have up-to-date information of every building. 
 
