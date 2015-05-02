@@ -7,7 +7,7 @@ For my final project I looked at how to integrate building plans into an online,
   
 #### OPP Data - Formatting
 
-OPP was kind enough to provide .dwg (AutoCAD) files for Willard and Findlay buildings.  As such this was that data that was used for the project.  The first step in manipulating the data was to convert it from a .dwg to a shapefile.  This process was done twice; once for the polylines that composed the layout of the building and once for the room labels in each building.  Unfortunately no further progress could be made in regard to the room labels, so the remaining steps of the project are for the polylines only.
+OPP was kind enough to provide `.dwg` (AutoCAD) files for Willard and Findlay buildings.  As such this was that data that was used for the project.  The first step in manipulating the data was to convert it from a `.dwg` to a shapefile.  This process was done twice; once for the polylines that composed the layout of the building and once for the room labels in each building.  Unfortunately no further progress could be made in regard to the room labels, so the remaining steps of the project are for the polylines only.
   
 #### OPP Data - Simplification
 
@@ -15,7 +15,7 @@ Once the polylines had been converted to a shapefile the next step was to simpli
 
 #### OPP Data – Projections
 
-At this point in the project the shapefiles did not have a projection, so one needed to be defined.  The appropriate projection for University Park is NAD 1983 State Plane Pennsylvania North FIPS 3701 (Feet), so this is the coordinate system that was assigned by way of the Define Projection tool in ArcToolbox.  However, online maps are in the WGS 1984 coordinate system, so all of the data was then re-projected to this standard.  Once this was done the data was ready to be converted into a GeoJSON.
+At this point in the project the shapefiles did not have a projection, so one needed to be defined.  The appropriate projection for University Park is `NAD 1983 State Plane Pennsylvania North FIPS 3701 (Feet)`, so this is the coordinate system that was assigned by way of the `Define Projection` tool in ArcToolbox.  However, online maps are in the `WGS 1984` coordinate system, so all of the data was then re-projected to this standard.  Once this was done the data was ready to be converted into a GeoJSON.
 
 #### OPP Data - GeoJSON  
 
@@ -31,6 +31,6 @@ Many of the problems I encountered were related to converting data between diffe
 
 ### Description of Files
 
-There a five subfolders within the Building_Plan_Files folder.  The first one is the original, unaltered .dwg (AutoCAD) files from OPP.  The second is the GeoJSON files I was able to create for each level of Willard and Findlay.  These GeoJSONs are of just the outline of the building, since I was having trouble with more detailed files.  The third folder contains shapefiles of the building plans with no coordinate system.  The fourth folder are the labels in the correct coordinate system (WGS 1984), and the fifth is the plans in WGS 1984.
+There a five subfolders within the `Building_Plan_Files` folder.  The first one is the original, unaltered `.dwg` (AutoCAD) files from OPP.  The second is the GeoJSON files I was able to create for each level of Willard and Findlay.  These GeoJSONs are of just the outline of the building, since I was having trouble with more detailed files.  The third folder contains shapefiles of the building plans with no coordinate system.  The fourth folder are the labels in the correct coordinate system (`WGS 1984`), and the fifth is the plans in `WGS 1984`.
 
 
