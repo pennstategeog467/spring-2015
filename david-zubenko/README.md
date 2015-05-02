@@ -1,16 +1,13 @@
 # Project: Integrating Building Plans into a Campus Map
 **Student Name:** David Zubenko
 
-
-# Integrating Building Plans into a Campus Map
-
 ### Overview
 
 For my final project I looked at how to integrate building plans into an online, interactive campus map.   The original goal of the project was to simplify each plan and convert it into a GeoJSON file that could be added as an overlay to the class campus map.  To delineate between floors of a multi-story building each overlay would be coded to appear at a specific zoom level.  Ultimately I was unable to complete the project in its entirety, however, I learned a great deal and obtained some preliminary results that future students can build upon.
   
 #### OPP Data - Formatting
 
-	OPP was kind enough to provide .dwg (AutoCAD) files for Willard and Findlay buildings.  As such this was that data that was used for the project.  The first step in manipulating the data was to convert it from a .dwg to a shapefile.  This process was done twice; once for the polylines that composed the layout of the building and once for the room labels in each building.  Unfortunately no further progress could be made in regard to the room labels, so the remaining steps of the project are for the polylines only.
+OPP was kind enough to provide .dwg (AutoCAD) files for Willard and Findlay buildings.  As such this was that data that was used for the project.  The first step in manipulating the data was to convert it from a .dwg to a shapefile.  This process was done twice; once for the polylines that composed the layout of the building and once for the room labels in each building.  Unfortunately no further progress could be made in regard to the room labels, so the remaining steps of the project are for the polylines only.
   
 #### OPP Data - Simplification
 
