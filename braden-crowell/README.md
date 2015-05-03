@@ -1,4 +1,4 @@
-# Project: Designing a campus web map
+# Project: Updating Blue & White Golf Courses in OpenStreetMap
 **Student Name:** Braden Crowell: 
 
 
