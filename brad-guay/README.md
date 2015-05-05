@@ -1,25 +1,25 @@
 # Project: Temporary and planned campus road closures and changes
 **Student Name:** Brad Guay
 
-# Background/Goals
+## Background/Goals
 
 Roads on and around campus close frequently for a variety of reasons, both planned and unplanned. Roads may also see lane closures or even temporary contraflow. The inspiration for this project and perhaps the largest and best-known traffic reconfiguration happens on football Saturdays. On the 7 annual game days and Blue-White weekend, roads around the stadium are closed and turned into pedestrian malls. In addition, the main arteries running towards the tailgating lots are made to be one way, enabling faster access to and from the lots. While traffic flow information for these events is available through Penn State, it is not incorporated into the regular campus map. Many users need this information, so it should be incorporated into the campus map. In this project, I explored modifying OpenStreetMap data to make the campus map dynamic, allowing it react to and display road closures in real-time, while also adjusting directions given.
 
 Besides the obvious football traffic, OpenStreetMap modification could also be applied to things such as construction, the next biggest cause of campus road closures. Currently, information about the duration of construction and the roads affected is available in a text format through OPP. While this is efficient, it is not very intuitive. Users should be able to access this information through the campus map, allowing them to better plan travel around campus. In addition, the map should automatically reroute users seeking directions to avoid construction sites. The same should occur in an emergency such as a building fire or bad vehicle accident: the map should update to display road closures, keeping users away from the affected area. However, this is the most difficult to accomplish due to the immediacy of the information and a possible delay in incorporating it into the campus map.
 
-# Methods
+## Methods
 
 In attempting to accomplish this task, I worked mostly in OpenStreetMap to modify the base information which is then fed into Mapbox. OpenStreetMap allows road access to be temporarily modified through the use of conditional tags. For example, if we know that a road will be closed for construction between March 19 and April 7, it can be tagged with ìconditional:access=no @ (Mar 19 ñ Apr 7).î A similar concept applies for football Saturdays, as roads can be tagged with the scheduled dates and times in a list form. This information is then ingested into Mapbox and the road will show up as closed on the map. The Mapbox directions API will eventually also incorporate this information and direct users around the affected areas. 
 
 This procedure would be slightly modified for an emergency. Emergencies happen without warning and do not have a defined expiration time, so manual intervention would be required. As soon as an event occurs, the affected road(s) must be closed in OpenStreetMap. This information would then propagate through to the campus map and directions API. It would perhaps also be beneficial to add an alert text or icon on top of the closed road to further emphasize the situation.
 
-# Challenges
+## Challenges
 
 While above process is fairly simple, there are several caveats which may prevent this method from being feasible at the current time. First, the ìaccess:conditionalî tags do not differentiate by year. For example, if a road is scheduled to be closed from March 19 to April 7 for construction, it would automatically close on those dates each year if the tag is not removed after the road reopens. The same concept applies to football closures. The games do not occur on the same days each year, so the tags would need to be updated to reflect each seasonís schedule. This would require someone to constantly maintain the map as a part of their job description.
 
 In addition, the Mapbox Directions API lacks immediacy in its current state. While the campus map itself updates within 5-10 minutes of an OpenStreetMap change, the directions API can take up to a week to ingest the information. Thus, a user requiring directions may continue to be routed onto a closed road days after it has been shut down. This also negates OpenStreetMapís potential for usage in emergencies, as the directions would most likely not be updated until long after the situation has passed. While Mapbox is working on getting the API to work faster, this may not be the best option in its present state. 
 
-# Next Steps
+## Next Steps
 
 Updating OpenStreetMap to include road closures is not difficult to do, but it requires constant maintenance and careful oversight. Unless the university can find someone to do this as a part of their job, this may not be the best route to pursue. Perhaps it would be better to create a series of layers in Mapbox to be manually added to the map. For example, a layer for football traffic flow could be created and automatically toggled on during football weekends, with the option for users to also enable it if they desire the information for planning purposes.
 
