@@ -1,0 +1,29 @@
+# Project: Emergency Management 
+**Student Name:** Everleigh Stokes
+
+*This semester, my contribution to the new and improved PSU campus map involved adding emergency management (EM) layers. The first main objective was to take the current EM planning maps and convert them into appropriate file types. More specifically, the current EM maps only exist as CADD drawings; my objective was to create shapefile to be used for future mapping. My second objective was to successfully add the EM layers to the broader campus map being created by the class. The final object was to display the EM layers in an aesthetically pleasing but logistically adequate way so the data could be efficiently interpreted by both EM managers, EM staff, students, faculty, and community members.*
+
+## Work Flow
+
+In order to reach my objectives, I completed a four step work flow. To begin, I met with lead employees in the department of Public Safety for University Park. The meeting included Brian Bittner, the Director of the Emergency Management division and Pam Soule, a emergency planner. Through our meeting, I was introduced to the Protective Action Annex. This document details Penn State’s EM plan with respect to lots of time, some time, or no time given between a disaster event and time to evacuate. Within the report are five different maps. Through these maps, the EM division has identified shelters and collection points people could be directed to, designed a neighborhood labeling system for both residential and general buildings, and determined key intersections in and around campus that would need to be controlled and re-routed in the event of a disaster. As mentioned, these maps previously existed in CADD form. 
+
+The second step in my work flow was to convert the CADD files to appropriate file types for campus mapping. Unfortunately, I was not able to obtain the original CADD files. As a result, I downloaded UP buildings, sidewalks, and paved areas into ArcMap from the data commons website and simply drew in the layers I desired by hand. At the end of the Arc process, I had created a “Shelters” shapefile, “Collection points” shapefile, “Residential neighborhood” shapefile, and “General Building zone” shapefile. 
+
+The third step was to import the shapefiles into Mapbox. To do this, I had to download the TileMill software and design my own, new project. In TileMill, I added the four main shapefiles and styled the layers appropriately. For the colors, I maintained the color schemes found in the EM maps that already exist. First, the colors were all very different and very bright so it was easy to tell what was being identigy. Second, I figured it would be good to maintain consistency between the maps the EM department was already training with in an effort to lay the ground for a smooth transition moving forward. In addition to the color, I also incorporated the thick border but transparent fill the CADD maps display for each layer. Finally, I added labels like those seen in the EM CADD files. 
+
+The final step in the work flow was to upload my project onto Mapbox and then add the layers on top of the prototype Aaron, Jenna, Grant and others had visually created and edited. To do this, I saved my project (with the four styled EM layers) as MBTiles. I then uploaded the tiles as data through my mapbox account. Once that had loaded, Aaron used the map ID to incorporate the layers onto the working campus map. 
+	
+## Challenges
+
+There were definitely challenges with this project. First, I wish I had access to the CADD files seen in the annex so the shapefiles were as exact as possible. Second, it was tedious to draw the shapes in Arc as the editor tool kept wanting to snap to existing structures and place a new vertex there instead of allowing for complete freedom of movement when drawing. As a result, some of the lines aren’t as precise as I would hope.  The next issue I had to work through was figuring out how to load the layers into Mapbox, For the most part,  TileMill worked great as soon as I realized that was the answer, except for a few issues regarding writing the code for the polygon labels.  Overall, besides those minor bumps the project went relatively smoothly. 
+	
+## Ideas for the Future
+
+Moving forward, three different avenues could be pursued. First, it might be a good to design a security access code for the EM layers. In other words, if the EM layers are freely displayed on the final version of the campus map people could use that information with malicious intent. Therefore, maybe the layers are made available to those with a certain access or login code. Second, there are two maps in the Annex I did not work with that label the important intersections and display intended flow of traffic; the traffic information such as direction, time, and predicted manpower needed could be displayed as yet another EM layer. Finally, the map could be designed to include a personalized routing tool for EM evacuation. For example, if I am in Walker building and I’ve been told to evacuate to the arboretum collection point (similar to Google maps “directions” function or building to build routing system), the directions tool could show me the quickest way to get from Walker to my collection point while at the same time incorporating evacuation routes and altered traffic flows. 
+
+## Key Files
+
+- Collection Points: shapefile for the designated EM collection points at UP
+- General Building Zone- shapefile for the designated EM zones for general and academic buildings at UP
+- Residence Hall Neighborhood: shapefile for the designated EM communities of on campus living for UP
+- Shleter Locations: shapefile for designated EM shelters at UP 
