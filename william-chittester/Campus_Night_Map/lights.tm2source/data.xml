@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="attribution"><![CDATA[Penn State]]></Parameter>
+  <Parameter name="center">-77.8586,40.8018,15</Parameter>
+  <Parameter name="description"><![CDATA[LightPole locations, and 50ft buffer around them]]></Parameter>
+  <Parameter name="format">pbf</Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"All_StreetLights","description":"lights","fields":{"FID_":"Number","Entity":"String","Layer":"String","Color":"Number","Linetype":"String","Elevation":"Number","LineWt":"Number","RefName":"String","Angle":"Number"}},{"id":"StreetLightBuffer","description":"50ft buffer","fields":{"FID_":"Number","Entity":"String","Layer":"String","Color":"Number","Linetype":"String","Elevation":"Number","LineWt":"Number","RefName":"String","Angle":"Number","BUFF_DIST":"Number"}}]}]]></Parameter>
+  <Parameter name="maxzoom">19</Parameter>
+  <Parameter name="minzoom">15</Parameter>
+  <Parameter name="name"><![CDATA[OPP_LightPoles]]></Parameter>
+</Parameters>
+
+
+<Layer name="All_StreetLights"
+  buffer-size="8"
+  srs="+proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/William/MapBox/StreetLights/All_StreetLights.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+<Layer name="StreetLightBuffer"
+  buffer-size="8"
+  srs="+proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[/Users/William/MapBox/StreetLights/StreetLightBuffer.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>

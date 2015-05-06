@@ -1,0 +1,53 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: williamchittester.0958f81c
+  rev: s-b2b96046
+  saveCenter: true
+attribution: Penn State
+center: 
+  - -77.8586
+  - 40.8018
+  - 15
+description: LightPole locations, and 50ft buffer around them
+Layer: 
+  - id: All_StreetLights
+    Datasource: 
+      file: /Users/William/MapBox/StreetLights/All_StreetLights.shp
+      type: shape
+    description: lights
+    fields: 
+      Angle: Number
+      Color: Number
+      Elevation: Number
+      Entity: String
+      FID_: Number
+      Layer: String
+      Linetype: String
+      LineWt: Number
+      RefName: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs
+  - id: StreetLightBuffer
+    Datasource: 
+      file: /Users/William/MapBox/StreetLights/StreetLightBuffer.shp
+      type: shape
+    description: 50ft buffer
+    fields: 
+      Angle: Number
+      BUFF_DIST: Number
+      Color: Number
+      Elevation: Number
+      Entity: String
+      FID_: Number
+      Layer: String
+      Linetype: String
+      LineWt: Number
+      RefName: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs
+maxzoom: 19
+minzoom: 15
+name: OPP_LightPoles
