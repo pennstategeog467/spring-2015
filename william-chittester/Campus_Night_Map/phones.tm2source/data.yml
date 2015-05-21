@@ -1,0 +1,26 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: williamchittester.917cf953
+  rev: s-457e2134
+  saveCenter: true
+attribution: 'Penn State '
+center: 
+  - -77.8683
+  - 40.7915
+  - 15
+description: Locations of Emergency Phones on the University Park Campus
+Layer: 
+  - id: Emergency_Phones
+    Datasource: 
+      file: /Users/William/MapBox/Emergency_Phones (3)/Emergency_Phones.shp
+      type: shape
+    description: ''
+    fields: 
+      LOCATION: String
+    properties: 
+      "buffer-size": 8
+    srs: +proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs
+maxzoom: 19
+minzoom: 15
+name: PSU_OPP_EmergencyPhones
