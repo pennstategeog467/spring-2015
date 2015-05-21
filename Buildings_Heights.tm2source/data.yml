@@ -1,0 +1,37 @@
+_prefs: 
+  disabled: []
+  inspector: false
+  mapid: bethnewhart.e239bbc3
+  rev: s-25fd1ffc
+  saveCenter: true
+attribution: ''
+center: 
+  - -77.8633
+  - 40.8046
+  - 16
+description: Approximate height for every campus building
+Layer: 
+  - id: Bldg_Height
+    Datasource: 
+      file: "C:\\Users\\Beth\\Desktop\\geog467finalproj\\Bldg_Height.shp"
+      type: shape
+    description: ''
+    fields: 
+      ID: Number
+      BLDG_ABBR: String
+      BLDG_NAME_: String
+      BLDG_NUM: String
+      BLDG_NUM_A: String
+      FT_HEIGHT: Number
+      LAYER: String
+      PX_HEIGHT: Number
+      ROUNDED_FT: Number
+      ROUNDED_PX: Number
+      Shape_Area: Number
+      Shape_Leng: Number
+    properties: 
+      "buffer-size": 22
+    srs: +proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs
+maxzoom: 17
+minzoom: 0
+name: Buildings_Heights

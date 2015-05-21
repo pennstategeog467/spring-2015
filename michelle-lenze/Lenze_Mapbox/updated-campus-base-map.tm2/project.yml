@@ -9,9 +9,9 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - -77.8606
-  - 40.8011
-  - 15
+  - -77.8636
+  - 40.7964
+  - 18
 description: ''
 format: "png8:m=h"
 interactivity_layer: ''
@@ -54,7 +54,7 @@ layers:
   - water_label
   - waterway_label
   - road_label
-maxzoom: 18
+maxzoom: 19
 minzoom: 15
 name: Campus Base Map
 source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6,aarondennis.a2d9671d,aarondennis.8e4f6b3d,jldifrisco.c69dcc65,aarondennis.734664d3,michellel.e73f53ee"

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Map[]>
+<Map srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
+
+<Parameters>
+  <Parameter name="center">-77.8633,40.8046,16</Parameter>
+  <Parameter name="description"><![CDATA[Approximate height for every campus building]]></Parameter>
+  <Parameter name="format">pbf</Parameter>
+  <Parameter name="json"><![CDATA[{"vector_layers":[{"id":"Bldg_Height","description":"","fields":{"ID":"Number","LAYER":"String","BLDG_NUM":"String","BLDG_NUM_A":"String","BLDG_NAME_":"String","BLDG_ABBR":"String","Shape_Leng":"Number","Shape_Area":"Number","FT_HEIGHT":"Number","ROUNDED_FT":"Number","PX_HEIGHT":"Number","ROUNDED_PX":"Number"}}]}]]></Parameter>
+  <Parameter name="maxzoom">17</Parameter>
+  <Parameter name="minzoom">0</Parameter>
+  <Parameter name="name"><![CDATA[Buildings_Heights]]></Parameter>
+</Parameters>
+
+
+<Layer name="Bldg_Height"
+  buffer-size="22"
+  srs="+proj=lcc +lat_1=40.88333333333333 +lat_2=41.95 +lat_0=40.16666666666666 +lon_0=-77.75 +x_0=600000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs">
+    
+    <Datasource>
+       <Parameter name="file"><![CDATA[C:\Users\Beth\Desktop\geog467finalproj\Bldg_Height.shp]]></Parameter>
+       <Parameter name="type"><![CDATA[shape]]></Parameter>
+    </Datasource>
+  </Layer>
+
+</Map>

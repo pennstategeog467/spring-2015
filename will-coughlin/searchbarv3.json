@@ -1,0 +1,4664 @@
+[
+  {
+    "PICTURE ID":114000,
+    "label":"Agricultural Engineering Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":813000,
+    "label":"All-Sports Museum ",
+    "BUILDING FUNCTION":"Museum Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998254,
+    "label":"Allenway Building",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":411000,
+    "label":"Althouse Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996009,
+    "label":"Applied Science Building",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":145001,
+    "label":"Arboretum Overlook Pavilion",
+    "BUILDING FUNCTION":"",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996010,
+    "label":"ARL Building ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996014,
+    "label":"ARL Test Site ",
+    "BUILDING FUNCTION":"",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":654000,
+    "label":"Biobehavioral Health Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":761000,
+    "label":"Blue Band Building",
+    "BUILDING FUNCTION":"Demo School Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":21000,
+    "label":"Bookstore Building",
+    "BUILDING FUNCTION":"Bookstore",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":107000,
+    "label":"Borland Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":104000,
+    "label":"Botany Greenhouse",
+    "BUILDING FUNCTION":"Phy. & Nat. Sciences",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":13000,
+    "label":"Boucke Building ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325006,
+    "label":"Breazeale Guard House",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325000,
+    "label":"Breazeale Nuclear Reactor ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325004,
+    "label":"Breazeale Plastic Storage Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":105000,
+    "label":"Buckhout Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":23001,
+    "label":"Business Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998301,
+    "label":"Calder Square I Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998031,
+    "label":"Calder Square II Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":117000,
+    "label":"Calorimeter Building",
+    "BUILDING FUNCTION":"Museum Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":704000,
+    "label":"Carnegie ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":453000,
+    "label":"Carpenter Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":404000,
+    "label":"CBL Centralized Biological Laboratory",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":404001,
+    "label":"CBL Pole Building",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":605000,
+    "label":"Center for Educational Diagnosis and Remediation",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132009,
+    "label":"Center for Sustainability  Solar Car Port",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132007,
+    "label":"Center For Sustainability Greenhouse",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":36000,
+    "label":"Centre County/Penn State Visitor Center",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":602000,
+    "label":"Chambers Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":408000,
+    "label":"Chandlee Laboratory ",
+    "BUILDING FUNCTION":"Social Science Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":50000,
+    "label":"Chemistry Building",
+    "BUILDING FUNCTION":"Phy. & Nat. Sciences",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":910002,
+    "label":"Coal Slurry Prep Facility",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":22001,
+    "label":"Coal Utilization Laboratory",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":9000,
+    "label":"Computer Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":412000,
+    "label":"Davey Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":503000,
+    "label":"Deike Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":64001,
+    "label":"Earth & Mineral Sciences Energy Institute",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":35000,
+    "label":"Earth and Engineering Sciences Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":253001,
+    "label":"East Halls Picnic Pavilion",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":11000,
+    "label":"Eisenhower Auditorium ",
+    "BUILDING FUNCTION":"Auditorium/Theatre",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":315000,
+    "label":"Electrical Engineering - East",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":302000,
+    "label":"Electrical Engineering - West",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":107001,
+    "label":"Erickson Food Science Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":405000,
+    "label":"Fenske Laboratory ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":108000,
+    "label":"Ferguson Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":23000,
+    "label":"Ford Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":113000,
+    "label":"Forest Resources Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":753000,
+    "label":"Forum Building",
+    "BUILDING FUNCTION":"Classroom Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":106000,
+    "label":"Frear North Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":303001,
+    "label":"Fuel Storage Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":304000,
+    "label":"Hammond Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":653000,
+    "label":"Health and Human Development East",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":502000,
+    "label":"Hosler Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":38000,
+    "label":"Huck Life Sciences Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":39000,
+    "label":"Information Sciences and Technology (IST) Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":15000,
+    "label":"Keller Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":452000,
+    "label":"Kern Graduate Building ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":991200,
+    "label":"Lewis Katz Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":667000,
+    "label":"Mateer Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":24000,
+    "label":"McAllister ",
+    "BUILDING FUNCTION":"Faculty Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":128000,
+    "label":"Meats Laboratory",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":38001,
+    "label":"Millennium Science Complex",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":604000,
+    "label":"Moore Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":409000,
+    "label":"Mueller Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":752000,
+    "label":"Music Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":760000,
+    "label":"Music Building II",
+    "BUILDING FUNCTION":"Demo School Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":803000,
+    "label":"Noll Laboratory for Human Performance Research ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":64000,
+    "label":"North American Refractories Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":19000,
+    "label":"Oak Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192005,
+    "label":"Observation Station I",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192006,
+    "label":"Observation Station II",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":332001,
+    "label":"Observatory",
+    "BUILDING FUNCTION":"Phy. & Nat. Sciences",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":10000,
+    "label":"Old Botany Building",
+    "BUILDING FUNCTION":"Faculty Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":401000,
+    "label":"Osmond Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":702000,
+    "label":"Oswald Tower",
+    "BUILDING FUNCTION":"Faculty Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965013,
+    "label":"Outreach Innovation Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":755000,
+    "label":"Palmer Museum Of Art",
+    "BUILDING FUNCTION":"Museum Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":3003,
+    "label":"Paterno Library ",
+    "BUILDING FUNCTION":"Library Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":3000,
+    "label":"Pattee Library ",
+    "BUILDING FUNCTION":"Library Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":121000,
+    "label":"Patterson Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192002,
+    "label":"Pavilion",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":759000,
+    "label":"Pavilion Theatre",
+    "BUILDING FUNCTION":"Auditorium/Theatre",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":290001,
+    "label":"Pearl O Weston Hall ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998141,
+    "label":"Penn State Downtown Theatre Center",
+    "BUILDING FUNCTION":"Auditorium/Theatre",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":611000,
+    "label":"Pine Cottage",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":7000,
+    "label":"Pollock Building",
+    "BUILDING FUNCTION":"Library Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":403000,
+    "label":"Pond Laboratories ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":603000,
+    "label":"Rackley Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325003,
+    "label":"Radiation Science Engineering Center Storage Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325001,
+    "label":"Radioactive Storage ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":303000,
+    "label":"Reber Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":801000,
+    "label":"Recreation Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998072,
+    "label":"Rider Building",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":51000,
+    "label":"Ritenour Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":301000,
+    "label":"Sackett Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998205,
+    "label":"Sandy Drive Building",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":29000,
+    "label":"Schreyer House ",
+    "BUILDING FUNCTION":"Faculty/Staff",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":2000,
+    "label":"Schwab Auditorium ",
+    "BUILDING FUNCTION":"Auditorium/Theatre",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192019,
+    "label":"Service Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130000,
+    "label":"Snider Agricultural Arena",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":326000,
+    "label":"Solar Home",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":410000,
+    "label":"South Frear Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":701000,
+    "label":"Sparks Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":332000,
+    "label":"Special Services Building",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":25000,
+    "label":"Spruce Cottage",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":757000,
+    "label":"Stuckeman Family Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":908000,
+    "label":"Supplemental Mail Room",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":57000,
+    "label":"Teaching Pavilion",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965003,
+    "label":"Technology Center",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":41000,
+    "label":"The Bennett Family Child Care Center",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998219,
+    "label":"The Towers",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":751000,
+    "label":"Theatre Building",
+    "BUILDING FUNCTION":"Auditorium/Theatre",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":17002,
+    "label":"Transportation Research Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":196001,
+    "label":"Transportation Test Track Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144007,
+    "label":"Turfgrass Museum",
+    "BUILDING FUNCTION":"Museum Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":110000,
+    "label":"Tyson Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144010,
+    "label":"Valentine Office Building",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":196005,
+    "label":"Vehicle Testing Laboratory",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":754000,
+    "label":"Visual Arts Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":756000,
+    "label":"Visual Arts Building - Ceramics",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":14000,
+    "label":"Wagner Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":504000,
+    "label":"Walker Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":402000,
+    "label":"Wartik Laboratory ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":109000,
+    "label":"Weaver Building ",
+    "BUILDING FUNCTION":"Faculty Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":802000,
+    "label":"White Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":406000,
+    "label":"Whitmore Laboratory ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169001,
+    "label":"Wiley Laboratory ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169004,
+    "label":"Wiley Modular Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":12000,
+    "label":"Willard ",
+    "BUILDING FUNCTION":"Classroom Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":22000,
+    "label":"Academic Activities",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":407000,
+    "label":"Academic Projects Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165004,
+    "label":"Administration",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168001,
+    "label":"Administration A",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996025,
+    "label":"ARL Office Trailer I",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996026,
+    "label":"ARL Office Trailer II",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996027,
+    "label":"ARL Office Trailer III",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996046,
+    "label":"ARL Storage Shed",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996015,
+    "label":"ARL Test Building ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996013,
+    "label":"ARL Test Laboratory",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996019,
+    "label":"ARL West I ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":65000,
+    "label":"ARL West II ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":66000,
+    "label":"ARL West III ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":325002,
+    "label":"Armco Steel Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":101000,
+    "label":"Armsby ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":102000,
+    "label":"Arts Cottage",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":665000,
+    "label":"Beecher-Dock House ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":22002,
+    "label":"Energy Institute Fuel Storage Facility",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":316000,
+    "label":"Engineering Services \"Machine Shop\"",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":305000,
+    "label":"Engineering Unit A",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":306000,
+    "label":"Engineering Unit B",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":307000,
+    "label":"Engineering Unit C",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169020,
+    "label":"Eva J Pell Laboratory for Advanced Biological Research",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192003,
+    "label":"Garage",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":666000,
+    "label":"Gardner House ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":996011,
+    "label":"Garfield Thomas Water Tunnel & Storage ",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":44000,
+    "label":"General Purpose Classroom Building",
+    "BUILDING FUNCTION":"Classroom Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":232000,
+    "label":"Grange Building",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998229,
+    "label":"Greenleaf Park One",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":317000,
+    "label":"Hallowell Building ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":651000,
+    "label":"Henderson Building ",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168020,
+    "label":"Herd Manager's Residence",
+    "BUILDING FUNCTION":"Faculty/Staff",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":430001,
+    "label":"High Pressure Gas Lab Compressor Bldg ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":430000,
+    "label":"High Pressure Gas Laboratory ",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":902000,
+    "label":"Hostetter Business Services Building ",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":304001,
+    "label":"Instructional Unit 1",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":304002,
+    "label":"Instructional Unit 2",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998027,
+    "label":"James Building",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":40000,
+    "label":"Joab L Thomas Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":999511,
+    "label":"Kissell Motorsports Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":103000,
+    "label":"Land and Water Research Building",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":319000,
+    "label":"Leonhard Building",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130001,
+    "label":"Livestock Holding Facility I ",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130002,
+    "label":"Livestock Holding Facility II ",
+    "BUILDING FUNCTION":"Instructional Lab",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998135,
+    "label":"Marion Place",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166016,
+    "label":"Mascaro/Steiniger Turfgrass Equipment Museum ",
+    "BUILDING FUNCTION":"Museum Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":17000,
+    "label":"Materials Research Laboratory",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169007,
+    "label":"Refrigerated Modular Lab",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":8000,
+    "label":"Research Building D",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":28000,
+    "label":"Research Building East",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":271000,
+    "label":"Research Building West",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":46000,
+    "label":"Research Center Storage I",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":46001,
+    "label":"Research Center Storage II",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":33000,
+    "label":"Research Unit A",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":33001,
+    "label":"Research Unit A Modular Lab Facility",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":31000,
+    "label":"Research Unit B",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":32000,
+    "label":"Research Unit C & Air Environment Greenhouse",
+    "BUILDING FUNCTION":"Multipurpose Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":196002,
+    "label":"Test Track Office",
+    "BUILDING FUNCTION":"Research Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965011,
+    "label":"The 328 Building",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":999018,
+    "label":"Zetachron Center for Science & Technology Business Development",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963046,
+    "label":"Ahmed Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963060,
+    "label":"Al Kline Residence",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963057,
+    "label":"Brett - Residence",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963050,
+    "label":"C Confer Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963062,
+    "label":"Day Property - Residence",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183001,
+    "label":"Farm House (FM 3)",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963059,
+    "label":"Frantz - Residence",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963058,
+    "label":"G Kline Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963056,
+    "label":"J Bierly Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963047,
+    "label":"Reeder Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":199001,
+    "label":"Residence (Widmann)",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":20000,
+    "label":"Telecommunications Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":116000,
+    "label":"Agricultural Science & Industries Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130009,
+    "label":"Ag Arena Hay Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183026,
+    "label":"Agricultural Engineering - Butler Building (Fm 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183006,
+    "label":"Agricultural Engineering Quonset 16 (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183003,
+    "label":"Agricultural Engineering Utility (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":127000,
+    "label":"Agricultural Seed (Farm No 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":180004,
+    "label":"Agriculture Analytical Services Laboratory (Fm 8)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":136002,
+    "label":"Air Quality Learning Center",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167001,
+    "label":"Almquist Laboratory and Office",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169002,
+    "label":"Animal Diagnostic Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169006,
+    "label":"Animal Maintenance Center",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167006,
+    "label":"Animal Quarters",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":185015,
+    "label":"Animal Shelter",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":120000,
+    "label":"Arthropod Research Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":197002,
+    "label":"Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":198001,
+    "label":"Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":185002,
+    "label":"Barn (FM 5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189002,
+    "label":"Barn (FM 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":199003,
+    "label":"Barn (Widmann)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189044,
+    "label":"Bee Research Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169018,
+    "label":"Bee Yard Pavilion",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165003,
+    "label":"Beef Barn III",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178005,
+    "label":"Breeder (P-5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167003,
+    "label":"Bull Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178004,
+    "label":"Cage Layer/Turkey (P-4)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190002,
+    "label":"Calf Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169008,
+    "label":"Cell Culture Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189004,
+    "label":"Central Milk Testing Lab & Temp Trailer (FM 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":143000,
+    "label":"Chemical Ecology Lab",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130007,
+    "label":"Chemical Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167002,
+    "label":"Collection & Calf Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":135000,
+    "label":"Compost Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998145,
+    "label":"Conestoga Show Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":199004,
+    "label":"Corn Crib (Widmann)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192018,
+    "label":"Cow Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168029,
+    "label":"Cow Free Stall Housing (D-5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168026,
+    "label":"Cow Tie Stall (D-2)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168003,
+    "label":"Dairy Barn C (D-7)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168004,
+    "label":"Dairy Barn D (D-8)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168005,
+    "label":"Dairy Barn E (D-9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168007,
+    "label":"Dairy Commodity Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190040,
+    "label":"Deer Pens",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998146,
+    "label":"Deer Pens Office Trailer",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189040,
+    "label":"Deer Research Barn (FM 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":120001,
+    "label":"Entomology Greenhouse (28' x 100')",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166003,
+    "label":"Entomology, Ornamentals and Turf Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":199005,
+    "label":"Equipment Shed (Widmann)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":185029,
+    "label":"Experimental Building (FM 5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":148000,
+    "label":"Experimental Greenhouse A",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":149000,
+    "label":"Experimental Greenhouse B",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":150000,
+    "label":"Experimental Greenhouse C",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":151000,
+    "label":"Experimental Greenhouse D",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":152000,
+    "label":"Experimental Greenhouse E",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":153000,
+    "label":"Experimental Greenhouse F",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":154000,
+    "label":"Experimental Greenhouse G",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":155000,
+    "label":"Experimental Greenhouse H",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":157000,
+    "label":"Experimental Greenhouse J",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183025,
+    "label":"Farm 3 Fuel Storage",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190001,
+    "label":"Farm House",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165011,
+    "label":"Farms Department Machinery Storage",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132003,
+    "label":"Farrow-To-Finish Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167004,
+    "label":"Feed Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168025,
+    "label":"Feed Center (D-1)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169016,
+    "label":"Feed Shed I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169017,
+    "label":"Feed Shed II",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195009,
+    "label":"Feed Shelter",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195010,
+    "label":"Feed Shelter",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195011,
+    "label":"Feed Shelter",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":185010,
+    "label":"Feed Storage (40' X 40') (FM 5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":111000,
+    "label":"Forest Resources Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":111005,
+    "label":"FRL Storage Shed III (Red)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":111007,
+    "label":"FRL Storage Shed V (Blue/White)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178001,
+    "label":"Fundamental Research (P-1)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998133,
+    "label":"Gastroenteric Disease Center Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169003,
+    "label":"Gazebo",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":159002,
+    "label":"Gothic I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":159003,
+    "label":"Gothic II (Mist House)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":127001,
+    "label":"Grain Drying Building (Farm No 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195004,
+    "label":"Grain Silo",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130004,
+    "label":"Grain Storage Bins",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":111001,
+    "label":"Greenhouse",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169013,
+    "label":"Greenhouse (Mastitis)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":116003,
+    "label":"Greenhouse A (West)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":116004,
+    "label":"Greenhouse B (East)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195013,
+    "label":"Haller Farm Cover-All",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165020,
+    "label":"Hay Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":158000,
+    "label":"Headhouse I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":159000,
+    "label":"Headhouse II",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":160000,
+    "label":"Headhouse III",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190005,
+    "label":"Heat Plant",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168027,
+    "label":"Heifer Barn (D-3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":115000,
+    "label":"Henning Building ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":126000,
+    "label":"Horse Barn (Farm No 16)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183028,
+    "label":"Horse Barn (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":959615,
+    "label":"Hydrotech Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189005,
+    "label":"Insectary",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166005,
+    "label":"Landscape Management Research",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":140000,
+    "label":"Livestock Testing Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183015,
+    "label":"Machinery Garage (24' X 135') (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183014,
+    "label":"Machinery Garage (24' X 230') (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183012,
+    "label":"Machinery Shed (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130003,
+    "label":"Manure Storage Structure (Farm No 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169010,
+    "label":"Mastitis Research Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169009,
+    "label":"Mastitis Research Free Stall Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178002,
+    "label":"Meatbird (P-2)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":125000,
+    "label":"Merkle Building ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169012,
+    "label":"Metal Storage",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":192004,
+    "label":"Milk House",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168028,
+    "label":"Milking Center (D-4)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169019,
+    "label":"Modular BAC-T Lab",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":198002,
+    "label":"Multi-Purpose Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":136000,
+    "label":"Mushroom Research Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":137000,
+    "label":"Mushroom Test Demonstration Facility \"MTDF\"",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195001,
+    "label":"Office Building (Haller Farm)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189009,
+    "label":"Packing House (FM 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":143002,
+    "label":"Pesticide Greenhouse",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":111002,
+    "label":"Pole Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189042,
+    "label":"Pole Barn - Deer Research (FM 9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195003,
+    "label":"Pole Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195005,
+    "label":"Pole Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195006,
+    "label":"Pole Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195007,
+    "label":"Pole Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":195008,
+    "label":"Pole Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190003,
+    "label":"Portable Feed Shed",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":197005,
+    "label":"Poultry House",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":193001,
+    "label":"Poultry Waste Drying Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178006,
+    "label":"Processing (P-6)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178003,
+    "label":"Pullet Growout (P-3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":159001,
+    "label":"Quonset Hut I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":200050,
+    "label":"Rockview Stone Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144011,
+    "label":"Sand Silo",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":143004,
+    "label":"Scent Mediated Ecology Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":199006,
+    "label":"Shed ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165005,
+    "label":"Sheep Barn I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":165006,
+    "label":"Sheep Barn II",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169011,
+    "label":"Silo",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":200007,
+    "label":"Silo 1 (Houtz)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":200008,
+    "label":"Silo 2 (Houtz)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":185005,
+    "label":"Steel Corn Crib (FM 5)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":183029,
+    "label":"Steel Pole Barn (FM 3)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":167005,
+    "label":"Sterility Cow Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166015,
+    "label":"Storage",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166004,
+    "label":"Storage and Garage",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144008,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190009,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190008,
+    "label":"Storage Shed (Composting) 10'x14'",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":125001,
+    "label":"Storage Shed (FWRU)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":125002,
+    "label":"Storage Shed II (Brown)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144003,
+    "label":"Storage/Work Area Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178007,
+    "label":"Storage-Pole Building (P-7)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":178009,
+    "label":"Storage-Pole Building (P-9)",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132002,
+    "label":"Swine Confinement Barn",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132004,
+    "label":"Swine Farrow Nursery Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132000,
+    "label":"Swine Research Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190039,
+    "label":"Swine Research Isolation Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166002,
+    "label":"Tank House",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":144009,
+    "label":"Turf-Breeding Building ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166006,
+    "label":"Turfgrass Breeding Greenhouse",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":166007,
+    "label":"Turfgrass Pesticide Research Laboratory",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":180005,
+    "label":"USDA North Shed I",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":180003,
+    "label":"USDA North Shed II",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":118000,
+    "label":"Vegetable Cellar",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":169005,
+    "label":"Veterinary Research Poultry",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":189043,
+    "label":"Visitor Information Shed - Deer Research ",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":190004,
+    "label":"Wagon Shed",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":130006,
+    "label":"Wash Building",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":168030,
+    "label":"Waste Shed",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":132006,
+    "label":"Wetlands Greenhouse",
+    "BUILDING FUNCTION":"Agricultural Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":963048,
+    "label":"Schuster Property",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":998095,
+    "label":"141 West Beaver Building",
+    "BUILDING FUNCTION":"Multipurpose Office",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965002,
+    "label":"230 Building, The",
+    "BUILDING FUNCTION":"Engineering Research",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965014,
+    "label":"329 Building, The",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":965015,
+    "label":"330 Building, The",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":200001,
+    "label":"Siebert Mansion (1841) (Houtz)",
+    "BUILDING FUNCTION":"Rented Residence",
+    "category":"Academic"
+  },
+  {
+    "PICTURE ID":812000,
+    "label":"Beaver Stadium Football Stadium",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":45000,
+    "label":"Bryce Jordan Center ",
+    "BUILDING FUNCTION":"Field House",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":827000,
+    "label":"Medlar Field at Lubrano Park",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":829000,
+    "label":"Pegula Ice Arena",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":828000,
+    "label":"Nittany Lion Softball Park",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":836000,
+    "label":"East Area Locker Room",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846001,
+    "label":"Adaptive Storage Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":804000,
+    "label":"Intramural Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":806004,
+    "label":"Jeffrey Field Men's Team Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":806005,
+    "label":"Jeffrey Field Women's Team Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":845000,
+    "label":"Louis E Lasch Football Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":820000,
+    "label":"McCoy Natatorium ",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822007,
+    "label":"Nittany Club Office ",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":824000,
+    "label":"Outdoor Pool Facilities",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822014,
+    "label":"Parking Ticket Shed I",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822015,
+    "label":"Parking Ticket Shed II",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822016,
+    "label":"Parking Ticket Shed III",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":824001,
+    "label":"Pool Office Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":814000,
+    "label":"Press Box",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":823000,
+    "label":"Press/Media Room",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822011,
+    "label":"Program/Landscape Storage Building",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822013,
+    "label":"Refrigerated Storage (W)",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":171001,
+    "label":"Sarni Tennis Facility - Former Poultry Headquarters",
+    "BUILDING FUNCTION":"Field House",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822019,
+    "label":"Storage and Maintenance Bldg W4",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822020,
+    "label":"Storage Building E3",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":837000,
+    "label":"Tennis Court Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":822018,
+    "label":"The Field Maintenance Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":805000,
+    "label":"Timing Stand Building at Track",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":843003,
+    "label":"Tombros Varsity Golf Clubhouse",
+    "BUILDING FUNCTION":"Field House",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846003,
+    "label":"Equipment Storage Building A",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846004,
+    "label":"Equipment Storage Building B",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846005,
+    "label":"Equipment Storage Building C",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":831000,
+    "label":"Bigler East Field Control Booth",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":815001,
+    "label":"Clemens Family Football Team Complex ",
+    "BUILDING FUNCTION":"Stadium",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":833000,
+    "label":"Holuba Hall",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846002,
+    "label":"Hurdle Storage Building",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":846000,
+    "label":"Indoor Multi-Sport Facility",
+    "BUILDING FUNCTION":"Field House",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":837004,
+    "label":"Indoor Tennis Complex Maintenance Shed",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":841003,
+    "label":"Walker Clubhouse",
+    "BUILDING FUNCTION":"Athletic Building",
+    "category":"Athletic"
+  },
+  {
+    "PICTURE ID":5000,
+    "label":"HUB (Hetzel Union Building)",
+    "BUILDING FUNCTION":"Cafeteria/Student Union",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":6000,
+    "label":"Eisenhower Chapel ",
+    "BUILDING FUNCTION":"Chapel Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":53000,
+    "label":"Student Health Center",
+    "BUILDING FUNCTION":"Student Health Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":42000,
+    "label":"Bank of America Career Services Center",
+    "BUILDING FUNCTION":"Multipurpose Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":260000,
+    "label":"Fisher Hall ",
+    "BUILDING FUNCTION":"Student Union Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":215050,
+    "label":"Nittany Community Center",
+    "BUILDING FUNCTION":"Student Union Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":998236,
+    "label":"Windmere Centre",
+    "BUILDING FUNCTION":"Human Hospital Building",
+    "category":"Student Services"
+  },
+  {
+    "PICTURE ID":274000,
+    "label":"Warnock Hall ",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":277000,
+    "label":"Findlay Hall ",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":276000,
+    "label":"Johnston Hall",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":273000,
+    "label":"Redifer Hall ",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":272000,
+    "label":"Waring Hall ",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":5000,
+    "label":"HUB (Hetzel Union Building)",
+    "BUILDING FUNCTION":"Cafeteria/Student Union",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":275000,
+    "label":"Pollock Hall",
+    "BUILDING FUNCTION":"Cafeteria Building",
+    "category":"Dining"
+  },
+  {
+    "PICTURE ID":995087,
+    "label":"East Parking Deck",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":940000,
+    "label":"Eisenhower Parking Deck",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":995080,
+    "label":"HUB Parking Deck",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":995060,
+    "label":"Nittany Parking Deck",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":29002,
+    "label":"Schreyer Garage",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963013,
+    "label":"Aircraft Rescue & Fire Fighting Building",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":904009,
+    "label":"Compressed Natural Gas Building",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963026,
+    "label":"Deicing Equip Stor Bldg",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":183002,
+    "label":"Garage (FM 3)",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963016,
+    "label":"General Aviation Hangar II",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963019,
+    "label":"General Aviation Hangar III",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":839000,
+    "label":"Golf Garage",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":999506,
+    "label":"Kissell Building I",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":270008,
+    "label":"Kubota Storage Building",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":29004,
+    "label":"Schreyer Gazebo",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963020,
+    "label":"T-Hangar M",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963021,
+    "label":"T-Hangar N",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963022,
+    "label":"T-Hangar O",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":963024,
+    "label":"T-Hangar-Q",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":333025,
+    "label":"WWTP Storage Shed",
+    "BUILDING FUNCTION":"Garage Building",
+    "category":"Parking"
+  },
+  {
+    "PICTURE ID":91000,
+    "label":"The Nittany Lion Inn",
+    "BUILDING FUNCTION":"University Hotel",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":965001,
+    "label":"Penn Stater Conference Center Hotel",
+    "BUILDING FUNCTION":"University Hotel",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":207000,
+    "label":"Beaver Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":249000,
+    "label":"Bigler Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":257000,
+    "label":"Brumbaugh Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":248000,
+    "label":"Curtin Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":246000,
+    "label":"Geary Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":252000,
+    "label":"Hastings ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":250000,
+    "label":"McKean Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":247000,
+    "label":"Packer Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":251000,
+    "label":"Pennypacker Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":259000,
+    "label":"Pinchot Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":254000,
+    "label":"Snyder Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":258000,
+    "label":"Sproul Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":253000,
+    "label":"Stone Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":255000,
+    "label":"Stuart Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":256000,
+    "label":"Tener Hall",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270003,
+    "label":"Dorothy V Harris Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270004,
+    "label":"E Willard Miller Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270005,
+    "label":"G Kenneth Nelson Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270006,
+    "label":"Hans A Panofsky Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270002,
+    "label":"Haskell B Curry Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270001,
+    "label":"Julia Gregg Brill Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":270007,
+    "label":"Phillip Young Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":211000,
+    "label":"Beam Building ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":212000,
+    "label":"Holmes Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":213000,
+    "label":"Leete Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":214000,
+    "label":"Runkle Hall ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":208000,
+    "label":"Hartranft Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":235000,
+    "label":"Hiester Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":209000,
+    "label":"Mifflin Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":230000,
+    "label":"Porter Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":238000,
+    "label":"Ritner Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":236000,
+    "label":"Shulze Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":231000,
+    "label":"Shunk Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":237000,
+    "label":"Wolf Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":233000,
+    "label":"Atherton Hall ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":239000,
+    "label":"Chace Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":245000,
+    "label":"Cooper-Hoyt Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":243000,
+    "label":"Ewing-Cross Hall ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":242000,
+    "label":"Haller-Lyons Hall",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":244000,
+    "label":"Hibbs-Stephens Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":240000,
+    "label":"McElwain Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":241000,
+    "label":"Simmons Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":205000,
+    "label":"Hamilton Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":203000,
+    "label":"Irvin Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":202000,
+    "label":"Jordan Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":206000,
+    "label":"McKee Hall ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":204000,
+    "label":"Thompson Hall ",
+    "BUILDING FUNCTION":"Women's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":201000,
+    "label":"Watts Hall ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290005,
+    "label":"Richard E Grubb Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290002,
+    "label":"Robert A Patterson Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290003,
+    "label":"Robert E Dunham Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290004,
+    "label":"Steve A Garban Hall",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":34003,
+    "label":"The 300 Building",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290006,
+    "label":"Charlotte E Ray Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290011,
+    "label":"Elbert F Osborn Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290012,
+    "label":"Kenneth L Holderman Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290015,
+    "label":"McKay Donkin Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290014,
+    "label":"Michael A Farrell Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290008,
+    "label":"Nunzio J Palladino Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290013,
+    "label":"Reed Ferguson Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290016,
+    "label":"Richard G Cunningham Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290017,
+    "label":"Robert G Bernreuter Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290009,
+    "label":"Sara Cutts Lovejoy Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290010,
+    "label":"Stanley O Ikenberry Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":290007,
+    "label":"Warren R Haffner Hall",
+    "BUILDING FUNCTION":"Married Students",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215011,
+    "label":"Building 11 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215012,
+    "label":"Building 12 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215013,
+    "label":"Building 13",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215014,
+    "label":"Building 14",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215015,
+    "label":"Building 15 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215016,
+    "label":"Building 16",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215017,
+    "label":"Building 17",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215021,
+    "label":"Building 21 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215022,
+    "label":"Building 22 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215023,
+    "label":"Building 23 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215024,
+    "label":"Building 24 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215025,
+    "label":"Building 25 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215031,
+    "label":"Building 31 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215032,
+    "label":"Building 32 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215033,
+    "label":"Building 33 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215034,
+    "label":"Building 34 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215035,
+    "label":"Building 35 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215041,
+    "label":"Building 41",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215042,
+    "label":"Building 42 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215043,
+    "label":"Building 43 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215044,
+    "label":"Building 44 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215045,
+    "label":"Building 45 ",
+    "BUILDING FUNCTION":"Men's Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215051,
+    "label":"Building 51 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215052,
+    "label":"Building 52 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215053,
+    "label":"Building 53 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215054,
+    "label":"Building 54 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215055,
+    "label":"Building 55 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215056,
+    "label":"Building 56 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215057,
+    "label":"Building 57 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":215060,
+    "label":"Building 60 ",
+    "BUILDING FUNCTION":"Coed Residence",
+    "category":"Residential "
+  },
+  {
+    "PICTURE ID":1000,
+    "label":"Old Main",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":61000,
+    "label":"The Hintz Family Alumni Center",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":4000,
+    "label":"Shields ",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":818003,
+    "label":"Police",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":903000,
+    "label":"Fleet Operations Facilities",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":34000,
+    "label":"Rider House",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":998276,
+    "label":"224 South Allen Street Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":963010,
+    "label":"Administration Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":112000,
+    "label":"Agricultural Administration Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":664000,
+    "label":"Benedict House ",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":998120,
+    "label":"Bristol Place I",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":998257,
+    "label":"Citizen's Bank Office Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":998036,
+    "label":"College Avenue Annex",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":183010,
+    "label":"Farm Service",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":963017,
+    "label":"General Aviation Administration Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":510000,
+    "label":"Ihlseng Building ",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":34001,
+    "label":"James M Elliott Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":994031,
+    "label":"Lab/Office Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":965010,
+    "label":"Lubert Building - PS Research Developers Association Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":37000,
+    "label":"Procurement Services Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":999019,
+    "label":"Technology Support Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":965012,
+    "label":"The 103 Building",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":193002,
+    "label":"University Support Building I",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":193003,
+    "label":"University Support Building II",
+    "BUILDING FUNCTION":"Admin Office Building",
+    "category":"Administrative"
+  },
+  {
+    "PICTURE ID":999013,
+    "label":"Ag Hill Sub Station",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":963031,
+    "label":"Airport Traffic Control Tower",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":996012,
+    "label":"ARL Warehouse Building",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":945000,
+    "label":"Athletic Field Maintenance Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994030,
+    "label":"Belt Filter Press Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904014,
+    "label":"Big Hollow Utility Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":915000,
+    "label":"Biomechanics Laboratory (Water Tower I)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994015,
+    "label":"Blower & Pump Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994023,
+    "label":"Blower Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":933000,
+    "label":"Butler Building (Farm No 13)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998203,
+    "label":"CATO Park Annex II",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":912000,
+    "label":"CATO Park Library Depository",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":931000,
+    "label":"Central Campus Substation",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998086,
+    "label":"Centre Medical Sciences Building",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":431001,
+    "label":"Chemical Accumulation Facility 1 (FM 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":431002,
+    "label":"Chemical Accumulation Facility 2 (FM 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":431003,
+    "label":"Chemical Accumulation Facility 3 (Fm 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":431000,
+    "label":"Chemical Storage I (Farm No 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":432000,
+    "label":"Chemical Storage II (Farm No 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":941000,
+    "label":"Chiller Building (Ag)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994043,
+    "label":"Chlorination Facility",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926001,
+    "label":"Chlorinator House (Farm #13) (Sand Trap Building)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926002,
+    "label":"Chlorinator House (Farm No 5)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926000,
+    "label":"Chlorinator House No 1 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":929000,
+    "label":"Chlorinator House No 2 (Army Reserve Center)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":505000,
+    "label":"Coal Sample Storage (Farm No 13)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":911004,
+    "label":"Coal Sampling Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":506000,
+    "label":"Coal Utilization Lab Fuel Storage Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":841001,
+    "label":"Cold Equipment Storage",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":153001,
+    "label":"Condensate Pumping Station",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994036,
+    "label":"Control Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994002,
+    "label":"Control Building & Garage",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909029,
+    "label":"Curtin Road Bus Shelter (Fisher Plaza side)",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909030,
+    "label":"Curtin Road Bus Shelter (Pattee Library side)",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":49000,
+    "label":"Dry Storage Building",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":910000,
+    "label":"East Campus Heating Plant",
+    "BUILDING FUNCTION":"Heating/Cooling Plant",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":999014,
+    "label":"East Campus Substation (College Avenue & High Street)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994028,
+    "label":"Effluent Pump Station 1",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":333020,
+    "label":"EFL Spray Field Office",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":963030,
+    "label":"Electric Service Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":946000,
+    "label":"Equipment Storage #1",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":947000,
+    "label":"Equipment Storage #2",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928003,
+    "label":"Equipment Storage Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998003,
+    "label":"Fedon Warehouse",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904021,
+    "label":"Flower Garden Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":193005,
+    "label":"Fox Hollow Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":193006,
+    "label":"Fox Hollow Building Annex",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":183016,
+    "label":"Fox Hollow Pumping Station (FM3)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":52000,
+    "label":"Garage (Ritenour Building)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":905002,
+    "label":"Garage and Storage",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928004,
+    "label":"General Storage Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":841006,
+    "label":"Golf Course Amphitheatre",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":840002,
+    "label":"Golf Course Chlorinator House",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":841000,
+    "label":"Golf Course Maintenance Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":840003,
+    "label":"Golf Course Pump House",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":67020,
+    "label":"Grad Circle Shop & Utilities",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":835000,
+    "label":"Greenberg Indoor Sports Complex (Philip & Barbara)",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904017,
+    "label":"Greenhouse Condenstate Pumping Station",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994034,
+    "label":"Grit Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904016,
+    "label":"Hazmat Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":804001,
+    "label":"IM Field Shed #1",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":804002,
+    "label":"IM Field Shed #2",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":818001,
+    "label":"Janitorial Storage (West Stands)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904018,
+    "label":"Janitorial Storage Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":806002,
+    "label":"Jeffrey Soccer Storage Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994049,
+    "label":"Jet/Vac Truck Garage",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":130008,
+    "label":"Landscape Nursery Greenhouse",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928008,
+    "label":"Landscape Nursery Storage Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928005,
+    "label":"Landscape Storage I",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928006,
+    "label":"Landscape Storage II",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928007,
+    "label":"Landscape Storage III",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928010,
+    "label":"Landscape Storage IV",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":933001,
+    "label":"Landscape Storage IV",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":965020,
+    "label":"Landscape Storage Shed",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928011,
+    "label":"Landscape Storage V",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":30000,
+    "label":"Laundry Building",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":931001,
+    "label":"MacMillan Substation",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":314000,
+    "label":"Main Hut Ionosphere (Farm No 13)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":937000,
+    "label":"Maintenance I (Pollock)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904022,
+    "label":"Medieval Garden Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904011,
+    "label":"Nittany Landscape Depot",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":910004,
+    "label":"North Campus Chilled Water Plant",
+    "BUILDING FUNCTION":"Heating/Cooling Plant",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994032,
+    "label":"Odor Control Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":185003,
+    "label":"OMPEC Compost Storage Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904026,
+    "label":"OPP Greenhouse Production 1",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904006,
+    "label":"OPP Renovation Services II ( Middle)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904007,
+    "label":"OPP Renovation Services Ill (North)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926006,
+    "label":"Orchard Road Chlorine Analyzer Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904015,
+    "label":"Paint Operations Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":841002,
+    "label":"Pesticide Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904000,
+    "label":"Physical Plant Building",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":946003,
+    "label":"Pole Building \"D\"",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":946004,
+    "label":"Pole Building \"E\"",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":824002,
+    "label":"Pool Chemical Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":911000,
+    "label":"Power Plant",
+    "BUILDING FUNCTION":"Heating/Cooling Plant",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":963012,
+    "label":"PSU Aircraft Maintenance Hangar",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904019,
+    "label":"Pump & Filtration Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994022,
+    "label":"Pump Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":840001,
+    "label":"Pump House 28A",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":923000,
+    "label":"Pump House No 14",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":922000,
+    "label":"Pump House No 16 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":921000,
+    "label":"Pump House No 17 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":917000,
+    "label":"Pump House No 2 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":920001,
+    "label":"Pump House No 24 (Farm No 8)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":916001,
+    "label":"Pump House No 26 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":919000,
+    "label":"Pump House No 4 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":920000,
+    "label":"Pump House No 5 (Farm No 13)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994006,
+    "label":"Pump Station",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994033,
+    "label":"Raw Sludge Pump House",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":333021,
+    "label":"Recycle Office Trailer",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904020,
+    "label":"Recycle Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":301001,
+    "label":"Sackett and Hammond Chiller Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928002,
+    "label":"Salt Storage (Water Tower III)",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":37003,
+    "label":"Salvage Warehouse",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":925000,
+    "label":"Salvage Warehouse Facility",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998038,
+    "label":"Sandywoods Professional Center",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":911006,
+    "label":"Scale House",
+    "BUILDING FUNCTION":"Heating/Cooling Plant",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":29001,
+    "label":"Schreyer Storage Building (Playhouse)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":924000,
+    "label":"Scientific Stores Building",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":841004,
+    "label":"Seed Storage Building at Golf Course",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":190019,
+    "label":"Service Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994001,
+    "label":"Sewage Disposal Laboratory",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":914001,
+    "label":"Sewage Pumping Station (East Halls)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994026,
+    "label":"Sewage Pumping Station (Porter Road)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994024,
+    "label":"Sludge Thickener Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":963014,
+    "label":"Snow Removal Equipment Storage Facility",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":144002,
+    "label":"Soils Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":910005,
+    "label":"South Chiller Building",
+    "BUILDING FUNCTION":"Heating/Cooling Plant",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":333000,
+    "label":"Special Services Storage (See ARL Test Lab 0996-013)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":333001,
+    "label":"Special Services Storage (See ARL Test Lab 0996-013)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":198100,
+    "label":"Sprayfield Equipment Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":144001,
+    "label":"Steel Turf Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":914000,
+    "label":"Storage (North Halls)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928001,
+    "label":"Storage (Water Tower III)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":136001,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":144004,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":144005,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":144006,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904001,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994027,
+    "label":"Storage Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994047,
+    "label":"Storage Building (24 X 68)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":37004,
+    "label":"Storage Building (Salvage & Surplus)",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":198050,
+    "label":"Storage Building A",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":198051,
+    "label":"Storage Building B",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":994048,
+    "label":"Storage Garage",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904008,
+    "label":"Storage Shed",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":946001,
+    "label":"Storage Shed I",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":946002,
+    "label":"Storage Shed II",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":911005,
+    "label":"Superintendent Office Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":196003,
+    "label":"Test Track Storage Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":196004,
+    "label":"Test Track Storage Trailer",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":999015,
+    "label":"Thompson Farm Substation (TR 361 at Thompson Farm)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":816020,
+    "label":"TNS Building (North/Ground)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":939000,
+    "label":"Tower Road Landscape Shop",
+    "BUILDING FUNCTION":"Maintenance Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":942000,
+    "label":"Transformer Storage Building (WWTP)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":911003,
+    "label":"Turbine Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":193004,
+    "label":"University Press Distribution Center (Building Connected by Walkway to USB I)",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998103,
+    "label":"Verizon Wireless Telecomm Shelter",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":47000,
+    "label":"Warehouse Storage I",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":48000,
+    "label":"Warehouse Storage II",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":930000,
+    "label":"Warehouse Storage Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":928000,
+    "label":"Water Tower III (Farm #3)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":918000,
+    "label":"Water Treatment Facility #1 (By OPP Water Tower)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926004,
+    "label":"Well House No 33 (Farm No 5)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926005,
+    "label":"Well House No 34 (Farm No 5)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":926003,
+    "label":"Well House No 35 (Farm No 5)",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":943000,
+    "label":"West Campus Chiller Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":906001,
+    "label":"West Campus Simplex Building",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":906000,
+    "label":"West Campus Substation",
+    "BUILDING FUNCTION":"Utility and Power",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":290021,
+    "label":"White Course Apartments Garden Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":999120,
+    "label":"Wireless Telecom Site 402",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":999121,
+    "label":"Wireless Telecom Site 403",
+    "BUILDING FUNCTION":"Not Used",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":806003,
+    "label":"Women's Soccer Equipment Shed",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":37002,
+    "label":"Workshop - Salvage & Surplus",
+    "BUILDING FUNCTION":"Storage Building",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909009,
+    "label":"Bus Stop Shelter (Curtin & Bigler Roads)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909010,
+    "label":"Bus Stop Shelter (Curtin Road; East of Patterson)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909017,
+    "label":"Bus Stop Shelter (Curtin Road-Beaver Stadium Side)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909018,
+    "label":"Bus Stop Shelter (Curtin Road-BJC Side)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909011,
+    "label":"Bus Stop Shelter (Hastings Road)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909027,
+    "label":"Bus Stop Shelter (Land & Water Research)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909012,
+    "label":"Bus Stop Shelter (Pattee Library)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909028,
+    "label":"Bus Stop Shelter (Porter Road - BJC Side)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909026,
+    "label":"Bus Stop Shelter (Porter Road - Medlar Field Side)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909024,
+    "label":"Bus Stop Shelter I (Innovation Park)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":965004,
+    "label":"Children's World Learning Center",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":934000,
+    "label":"Depot (Atherton St)-Leased to Transport Ctr",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":307001,
+    "label":"Elevator Link Building",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":818004,
+    "label":"EMS Bulding (Beaver Stadium)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":41001,
+    "label":"Gary Schultz Child Care Center at Hort Woods",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":903002,
+    "label":"Gas Kiosk (S Fleet Oper)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909025,
+    "label":"Kiosk (BJC Lot)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909023,
+    "label":"Kiosk (Brown A - Hintz)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909005,
+    "label":"Kiosk (East on Pollock)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":904002,
+    "label":"Kiosk (Northeast of Maintenance)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909007,
+    "label":"Kiosk (Red \"A\" Lot)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":909006,
+    "label":"Kiosk (West on Pollock)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":996003,
+    "label":"Metal Storage Building (Oats) (Farm No 8)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":998295,
+    "label":"Midtown Square Office Center",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":407001,
+    "label":"Noise Laboratory",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":996001,
+    "label":"Pasture Research Laboratory",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":996005,
+    "label":"Pole Building (Farm No 8)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":333002,
+    "label":"Storage Area",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":936000,
+    "label":"Storage I (East of Fleet Operations Facility)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":996004,
+    "label":"USDA North Headhouse/Greenhouse (Farm No 8)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":916000,
+    "label":"Water Tower II (North of Forum)",
+    "BUILDING FUNCTION":"",
+    "category":"Maintanence Building"
+  },
+  {
+    "PICTURE ID":280000,
+    "label":"Housing and Food Service Building",
+    "BUILDING FUNCTION":"Warehouse Building",
+    "category":"Maintanence Building"
+  }
+]

@@ -5,9 +5,9 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[The Pennsylvania State University, OpenStreetMap]]></Parameter>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">-77.8606,40.8011,15</Parameter>
+  <Parameter name="center">-77.8636,40.7964,18</Parameter>
   <Parameter name="format">png8:m=h</Parameter>
-  <Parameter name="maxzoom">18</Parameter>
+  <Parameter name="maxzoom">19</Parameter>
   <Parameter name="minzoom">15</Parameter>
   <Parameter name="name"><![CDATA[Campus Base Map]]></Parameter>
   <Parameter name="source"><![CDATA[mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6,aarondennis.a2d9671d,aarondennis.8e4f6b3d,jldifrisco.c69dcc65,aarondennis.734664d3,michellel.e73f53ee]]></Parameter>
